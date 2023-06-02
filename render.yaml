@@ -2,9 +2,9 @@ services:
 - autoDeploy: false
   env: image
   image:
-    url: docker.io/caosiwangyunmin/crghymi:waqpqkk
-  name: fxkpuunegxyr
+    url: docker.io/caosiwangyunmin/hrgdxqe:ogvexsk
+  name: trbiyxzvbwxmeozxr
   numInstances: 1
   plan: free
-  region: singapore
+  region: ohio
   type: web

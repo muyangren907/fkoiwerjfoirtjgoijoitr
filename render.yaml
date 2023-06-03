@@ -1,9 +1,8 @@
-services:
 - autoDeploy: false
   env: image
   image:
     url: docker.io/caosiwangyunmin/hrgdxqe:ogvexsk
-  name: trbiyxzvbwxmeozxr
+  name: vymztbqxgyystt
   numInstances: 1
   plan: free
   region: ohio

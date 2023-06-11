@@ -6,5 +6,5 @@ services:
   name: vymztbqxgyystt
   numInstances: 1
   plan: free
-  region: ohio
+  region: singapore
   type: web
